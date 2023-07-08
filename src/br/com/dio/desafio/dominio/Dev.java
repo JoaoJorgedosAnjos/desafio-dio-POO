@@ -39,11 +39,11 @@ public class Dev {
         this.nome = nome;
     }
 
-    public Set<Conteudo> getConteudoInscritos() {
+    public Set<Conteudo> getConteudosInscritos() {
         return conteudosInscritos;
     }
 
-    public void setConteudoInscritos(Set<Conteudo> conteudoInscritos) {
+    public void setConteudosInscritos(Set<Conteudo> conteudoInscritos) {
         this.conteudosInscritos = conteudoInscritos;
     }
 

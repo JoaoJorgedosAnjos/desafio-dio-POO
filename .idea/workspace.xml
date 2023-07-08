@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cb01d8d-871a-4c7b-86f6-88d66710e1c3" name="Changes" comment="Herança e polimorfismo Parte 2">
+    <list default="true" id="8cb01d8d-871a-4c7b-86f6-88d66710e1c3" name="Changes" comment="Concluindo a criação das classes do domínio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
       <updated>1688829997956</updated>
       <workItem from="1688829999004" duration="455000" />
       <workItem from="1688844622511" duration="133000" />
-      <workItem from="1688847469841" duration="4217000" />
+      <workItem from="1688847469841" duration="4848000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -94,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688851825421</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Concluindo a criação das classes do domínio">
+      <option name="closed" value="true" />
+      <created>1688852458222</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688852458222</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +114,7 @@
     <MESSAGE value="Abstração e encapsulamento" />
     <MESSAGE value="Herança e polimorfismo Parte 1" />
     <MESSAGE value="Herança e polimorfismo Parte 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Herança e polimorfismo Parte 2" />
+    <MESSAGE value="Concluindo a criação das classes do domínio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concluindo a criação das classes do domínio" />
   </component>
 </project>
